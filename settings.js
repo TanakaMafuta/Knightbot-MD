@@ -1,5 +1,5 @@
 const settings = {
-  packname: 'Knight Bot',
+  packname: 'Ghost Bot',
   author: '‎',
   botName: "CyberGhost Bot",
   botOwner: 'CYBER-GHOST', // Your name
